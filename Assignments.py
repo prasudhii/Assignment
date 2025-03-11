@@ -89,11 +89,11 @@ print(sum)
 
 #Assignment8
 
-# x=5
-# for i in range(1, x+1):
-#     for j in range(i ,i+1):
-#         print (j,end="") 
-#     print()
+x=5
+for i in range(1, x+1):
+    for j in range(i ,i+1):
+        print (j,end="") 
+    print()
 
 #Assignment9
 size = int(input('Enter the size of array: '))
